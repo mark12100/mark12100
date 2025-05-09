@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning C++, Unity, C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me bamix12100@bk.ru
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: mark
+- ⚡ Fun fact: DRINK MORE MILK!!!!
 
 <!---
 mark12100/mark12100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
