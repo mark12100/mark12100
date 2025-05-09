@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++, Unity, C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me bamix12100@bk.ru
-- 😄 Pronouns: mark
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: DRINK MORE MILK!!!!
 
 <!---
